@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @hardikroy24
-- 👀 I’m interested in Andrid development 
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on stady
-- 📫 How to reach me hardikroyee34@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I am nothing
+👋 Hi, I’m @hardikroy24
+👀 I’m interested in Android development
+🌱 Currently learning Java
+💡 Looking to collaborate on study projects
+📫 How to reach me: hardikroyee34@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I love exploring new tech trends and coding challenges!
 
-<!---
-hardikroy24/hardikroy24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Skills
+
+💻 Languages: Python, Java, C++
+
+📱 Focus: Mobile Development, Cyber Security Basics
+
+🛠️ Tools: Git, VS Code, Android Studio
+
+
